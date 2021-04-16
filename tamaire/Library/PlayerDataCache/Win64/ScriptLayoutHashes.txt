@@ -1,0 +1,12 @@
+Win64
+PlayerPath?
+C:/Users/Misaki/AppData/Local/Temp/DefaultCompany/tamaire/customscene.vrcw
+SceneListBegin?
+Assets/Point/Point.unity
+SceneListEnd?
+1d70104a257f93fe87ec1da6f8ed6b3b VRCSDK2.dll:VRCSDK2.VRC_EventHandler
+4e44df828d8a53c6b676947ccd497b6a VRCSDK2.dll:VRCSDK2.VRC_ObjectSync
+3614bae5f2ee7232eea55e930d1eb42d VRCSDK2.dll:VRCSDK2.VRC_Pickup
+10480eec36be4b6bdd6d8cc2b035dc73 VRCSDK2.dll:VRCSDK2.VRC_SceneDescriptor
+8a39d48005c02643f697a1e93cc1ef37 VRCSDK2.dll:VRCSDK2.VRC_Trigger
+d25601db5f800892b41ff09aef0f5e19 VRCCore-Editor.dll:VRC.Core.PipelineManager
